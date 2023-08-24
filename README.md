@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![Horiseon Digital Marketing Service](./assets/Images/Horiseon-Digital-Marketing-Service.png "Screenshot")
+![Horiseon Digital Marketing Service](./assets/images/Horiseon-Digital-Marketing-Service.png "Screenshot")
 
 Please see the live webpage link for you to checkout. [Link](https://mxrtinee.github.io/Horiseon-Digital-Marketing-Service/)
 
